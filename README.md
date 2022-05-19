@@ -9,15 +9,19 @@ Sejá bem vindo ao meu repositório 😎👍
 </div>
 
 <!-- Logo das linguagens -->
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Bryan-Csharp" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Bryan-DotNet" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="Bryan-MySQL" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Bryan-NuGet" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg">
+  <img align="center" alt="Bryan-MongoDB" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
   <!--
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="Bryan-HTML5" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Bryan-CSS3" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Bryan-JavaScript" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bryan-TypeScript" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   -->
+  <img align="center" alt="Bryan-Angular" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Bryan-Bootstrap" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Bryan-Linux" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
 </div>
