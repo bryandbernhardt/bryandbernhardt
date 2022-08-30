@@ -1,5 +1,5 @@
 <header>
-    <h1>Olá! Eu sou o Bryan Dietrich Bernhardt 🙋‍♂️</h1>
+    <h1>Olá! Eu sou o Bryan🙋‍♂️</h1>
     <h2>Sejá bem vindo ao meu repositório 😎👍</h2>
 </header>
 
