@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá! seja bem vindo(a) ao meu repositório <br>
+  Olá! seja bem vindo(a) ao meu repositório <br />
   Sou programador Web Full Stack, minha especialidade é no desenvolvimento de APIs com ASP.NET
 </p>
 
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=00618B" />
     <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=0090E1" />     
 </a>
-<br>
+<br />
 
 <p align="left">
   🧑‍🚀 Linguagens: <strong>C#, JS, TS</strong>
