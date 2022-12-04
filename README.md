@@ -5,7 +5,7 @@
     
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 
+<p> 
   Olá! seja bem vindo(a) ao meu repositório <br />
   Sou programador Web Full Stack, minha especialidade é no desenvolvimento de APIs com ASP.NET
 </p>
@@ -25,15 +25,15 @@
 <br />
 <br />
 
-<p align="left">
+<p>
   🧑‍🚀 Linguagens: <strong>C#, JS, TS</strong>
 </p>
 
-<p align="left">
+<p>
   🚀 Frameworks/Bibliotecas: <strong>ASP.NET, Entity Framework, Flunt, Identity, React, Angular</strong>
 </p>
 
-<p align="left">
+<p>
   🌎 Entre em contato comigo: ⤵️
 </p>
 
@@ -51,7 +51,7 @@
 
 ### GitHub
 
-<div align="left">
+<div>
     <a href="https://github.com/BryanDietrichBernhardt">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=BryanDietrichBernhardt&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=6909FA&title_color=ffffff&text_color=ffffff&icon_color=B03DE8&border_color=B03DE8&locale=pt-br&hide_rank=true&layout=compact&hide=stars,issues&card_width=350&card_height=100&custom_title=Minhas%20estatísticas" />
     </a>
