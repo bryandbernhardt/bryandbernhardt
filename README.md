@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=00618B" />
     <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=0090E1" />     
 </a>
+
 <br />
 <br />
 
@@ -38,15 +39,14 @@
 </p>
 
 <p>
-
   <a href="https://www.linkedin.com/in/bryandbernhardt/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-323330?style=flat-square&logo=Linkedin&logoColor=007AB5&link=https://www.linkedin.com/in/bryandbernhardt/" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5551986821539" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-323330?style=flat-square&logo=whatsapp&logoColor=4CC75A&link=https://api.whatsapp.com/send?phone=5551986821539"/></a>
-
+  <a href="https://api.whatsapp.com/send?phone=5551986821539" alt="WhatsApp"
+    <img src="https://img.shields.io/badge/-WhatsApp-323330?style=flat-square&logo=whatsapp&logoColor=4CC75A&link=https://api.whatsapp.com/send?phone=5551986821539"/>   </a>
   <a href="https://www.instagram.com/baiaaam/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-323330?style=flat-square&logo=instagram&logoColor=C40C7B&link=https://www.instagram.com/baiaaam/"/></a>
+    <img src="https://img.shields.io/badge/-Instagram-323330?style=flat-square&logo=instagram&logoColor=C40C7B&link=https://www.instagram.com/baiaaam/"/>
+  </a>
 </p>  
 
 ### GitHub
