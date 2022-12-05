@@ -31,7 +31,11 @@
 </p>
 
 <p>
-  🚀 Frameworks/Bibliotecas: <strong>ASP.NET, Entity Framework, Flunt, Identity, React, Angular</strong>
+  🚀 Frameworks/Bibliotecas: <strong>ASP.NET, Entity Framework, Flunt, Identity, Dapper, React, Angular</strong>
+</p>
+
+<p>
+  🛰️ Ferramentas: <strong>Visual Studio 2019/2022, VSCode, Azure Data Studio, Robo3T, Docker, Terminal</strong>
 </p>
 
 <p>
