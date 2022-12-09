@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  🚀 Frameworks/Bibliotecas: <strong>ASP.NET, Entity Framework, Flunt, Identity, Dapper, React, Angular</strong>
+  🚀 Frameworks/Bibliotecas: <strong>ASP.NET, Entity Framework, Flunt, Identity, Dapper, Serilog, JWTBearer, React, Angular</strong>
 </p>
 
 <p>
