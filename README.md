@@ -35,9 +35,7 @@
 </p>
 
 <p>
-  🚀 Frameworks/Bibliotecas: <br />
-    <strong>    ASP.NET: Entity Framework, Flunt, Identity, Dapper, Serilog, JWTBearer</strong> <br />
-    <strong>    Node.JS: Express, mongoose, bcrypt, jsonwebtoken, cors
+  🚀 Frameworks/Bibliotecas: <strong>ASP.NET Core, Node.js, React, Angular</strong>
 </p>
 
 <p>
