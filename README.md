@@ -60,13 +60,5 @@
   </a>
 </p>  
 
-### GitHub
-
-<div>
-    <a href="https://github.com/BryanDietrichBernhardt">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=BryanDietrichBernhardt&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=6909FA&title_color=ffffff&text_color=ffffff&icon_color=B03DE8&border_color=B03DE8&locale=pt-br&hide_rank=true&layout=compact&hide=stars,issues&card_width=350&card_height=100&custom_title=Minhas%20estatísticas" />
-    </a>
-    <a href="https://github.com/BryanDietrichBernhardt">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanDietrichBernhardt&hide=html,css&langs_count=4&hide_border=true&bg_color=6909FA&title_color=ffffff&text_color=ffffff&icon_color=B03DE8&border_color=B03DE8&locale=pt-br&hide_rank=true&layout=compact&include_all_commits=true&count_private=true&card_width=350&card_height=100" />
-    </a>
-</div>
+### GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanDietrichBernhardt&theme=vision-friendly-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=323330&stroke=6909FA&border=6909FA&ring=6909FA&fire=6909FA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=DDDDDD)](https://git.io/streak-stats)
