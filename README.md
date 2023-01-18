@@ -58,5 +58,6 @@
   </a>
 </p>  
 
+<!--https://github-readme-streak-stats.herokuapp.com/demo/-->
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanDietrichBernhardt&theme=vision-friendly-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=323330&stroke=6909FA&border=6909FA&ring=6909FA&fire=6909FA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=DDDDDD)](https://github.com/BryanDietrichBernhardt)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanDietrichBernhardt&theme=vision-friendly-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=323330&stroke=6909FA&border=6909FA&ring=6909FA&fire=6909FA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=DDDDDD)](https://github.com/BryanDietrichBernhardt)
