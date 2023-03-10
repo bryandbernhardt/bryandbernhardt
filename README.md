@@ -7,14 +7,14 @@
 
 <p> 
   Olá! seja bem vindo(a) ao meu repositório <br />
-  Sou programador Web Full Stack, minha especialidade é no desenvolvimento de APIs
+  Sou desenvolvedor Full Stack, minha especialidade é em APIs mas estou me especializando no ramo mobile
 </p>
 
 <a href="https://github.com/BryanDietrichBernhardt">
     <img src="https://img.shields.io/badge/.NET-323330?style=for-the-badge&logo=.net&logoColor=4F2ACF" />
     <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=4AB04E" />
     <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=CB2839" />
+    <img scr="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=2993DD" />
     <br />
     <img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=17941D" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -31,11 +31,11 @@
 <br />
 
 <p>
-  🧑‍🚀 Linguagens: <strong>C#, JS, TS</strong>
+  🧑‍🚀 Linguagens: <strong>C#, JS, TS, Dart</strong>
 </p>
 
 <p>
-  🚀 Frameworks/Bibliotecas: <strong>ASP.NET Core, Node.js, React, Angular</strong>
+  🚀 Frameworks/Bibliotecas: <strong>ASP.NET Core, Node.js, React, Flutter</strong>
 </p>
 
 <p>
