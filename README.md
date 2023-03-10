@@ -14,11 +14,12 @@
     <img src="https://img.shields.io/badge/.NET-323330?style=for-the-badge&logo=.net&logoColor=4F2ACF" />
     <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=4AB04E" />
     <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img scr="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=2993DD" />
+    <img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=2993DD" />
     <br />
     <img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=17941D" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACB" />
+    <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=2993DD" />
     <br />
     <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=6C9E4F" />
     <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=2E6093" />
