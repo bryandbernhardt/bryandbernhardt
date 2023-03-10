@@ -7,7 +7,7 @@
 
 <p> 
   Olá! seja bem vindo(a) ao meu repositório <br />
-  Sou desenvolvedor Full Stack, minha especialidade é em APIs mas estou me especializando no ramo mobile
+  Sou desenvolvedor Full Stack, minha especialidade é em APIs e estou me aperfeiçoando no ramo mobile
 </p>
 
 <a href="https://github.com/BryanDietrichBernhardt">
