@@ -36,7 +36,7 @@
 </p>
 
 <p>
-  🚀 Frameworks/Bibliotecas: <strong>ASP.NET Core, Node.js, React, Flutter</strong>
+  🚀 Frameworks: <strong>ASP.NET Core, Node.js, React, Flutter</strong>
 </p>
 
 <p>
