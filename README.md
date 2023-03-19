@@ -1,4 +1,3 @@
-### Sobre mim
 <a href="https://github.com/BryanDietrichBernhardt">
     <img src="https://img.shields.io/static/v1?label=Overview&message=BryanDietrichBernhardt&color=6909FA&style=for-the-badge&logo=GitHub&labelColor=323330">
 </a>
@@ -6,8 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p> 
-  Olá! seja bem vindo(a) ao meu repositório <br />
-  Sou desenvolvedor Full Stack, minha especialidade é em APIs e estou me aperfeiçoando no ramo mobile
+  I'm Bryan, developer and systems analyst, my specialty is APIs and I'm improving myself in the mobile business.
 </p>
 
 <a href="https://github.com/BryanDietrichBernhardt">
@@ -32,7 +30,7 @@
 <br />
 
 <p>
-  🧑‍🚀 Linguagens: <strong>C#, JS, TS, Dart</strong>
+  🧑‍🚀 Languages: <strong>C#, JS, TS, Dart</strong>
 </p>
 
 <p>
@@ -40,11 +38,11 @@
 </p>
 
 <p>
-  🛰️ Ferramentas: <strong>Visual Studio 2019/2022, VSCode, Azure Data Studio, Robo3T, Docker, Terminal, Postman</strong>
+  🛰️ Tools: <strong>Visual Studio 2019/2022, VSCode, Azure Data Studio, Robo3T, Docker, Terminal, Postman</strong>
 </p>
 
 <p>
-  🌎 Entre em contato comigo: ⤵️
+  🌎 Contact me: ⤵️
 </p>
 
 <p>
@@ -53,7 +51,9 @@
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5551986821539" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-323330?style=flat-square&logo=whatsapp&logoColor=4CC75A&link=https://api.whatsapp.com/send?phone=5551986821539"/>   </a>
+    <img src="https://img.shields.io/badge/-WhatsApp-323330?style=flat-square&logo=whatsapp&logoColor=4CC75A&link=https://api.whatsapp.com/send?phone=5551986821539"/>
+  </a>
+    
   <a href="https://www.instagram.com/baiaaam/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-323330?style=flat-square&logo=instagram&logoColor=C40C7B&link=https://www.instagram.com/baiaaam/"/>
   </a>
@@ -61,4 +61,4 @@
 
 <!--https://github-readme-streak-stats.herokuapp.com/demo/-->
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanDietrichBernhardt&theme=vision-friendly-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=323330&stroke=6909FA&border=6909FA&ring=6909FA&fire=6909FA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=DDDDDD&mode=weekly)](https://github.com/BryanDietrichBernhardt)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanDietrichBernhardt&theme=vision-friendly-dark&locale=en-US&date_format=M%20j%5B%2C%20Y%5D&background=323330&stroke=6909FA&border=6909FA&ring=6909FA&fire=6909FA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=DDDDDD&mode=weekly)](https://github.com/BryanDietrichBernhardt)
