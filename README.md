@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p> 
-  I'm Bryan, developer and systems analyst, my specialty is APIs and I'm improving myself in the mobile business.
+  I'm Bryan, developer and systems analyst, my specialty is APIs and I'm improving myself in the mobile business using Flutter.
 </p>
 
 <a href="https://github.com/BryanDietrichBernhardt">
