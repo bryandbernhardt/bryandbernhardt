@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=4AB04E" />
     <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=2993DD" />
+    <img src="https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=3EB480" />
     <br />
     <img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=17941D" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
