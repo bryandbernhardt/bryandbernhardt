@@ -1,5 +1,5 @@
-<a href="https://github.com/BryanDietrichBernhardt">
-    <img src="https://img.shields.io/static/v1?label=Overview&message=BryanDietrichBernhardt&color=6909FA&style=for-the-badge&logo=GitHub&labelColor=323330">
+<a href="https://github.com/bryandbernhardt">
+    <img src="https://img.shields.io/static/v1?label=Overview&message=bryandbernhardt&color=6909FA&style=for-the-badge&logo=GitHub&labelColor=323330">
 </a>
     
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
@@ -8,7 +8,7 @@
   I'm Bryan, developer and systems analyst, my specialty is in APIs and I'm focused on full-stack development.
 </p>
 
-<a href="https://github.com/BryanDietrichBernhardt">
+<a href="https://github.com/bryandbernhardt">
     <img src="https://img.shields.io/badge/.NET-323330?style=for-the-badge&logo=.net&logoColor=4F2ACF" />
     <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=4AB04E" />
     <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -62,4 +62,4 @@
 
 <!--https://github-readme-streak-stats.herokuapp.com/demo/-->
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanDietrichBernhardt&theme=vision-friendly-dark&locale=en-US&date_format=M%20j%5B%2C%20Y%5D&background=323330&stroke=6909FA&border=6909FA&ring=6909FA&fire=6909FA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=DDDDDD&mode=weekly)](https://github.com/BryanDietrichBernhardt)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanDietrichBernhardt&theme=vision-friendly-dark&locale=en-US&date_format=M%20j%5B%2C%20Y%5D&background=323330&stroke=6909FA&border=6909FA&ring=6909FA&fire=6909FA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=DDDDDD&mode=weekly)](https://github.com/bryandbernhardt)
