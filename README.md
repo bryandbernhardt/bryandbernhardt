@@ -43,6 +43,10 @@
 </p>
 
 <p>
+  💻 SO: <strong>Debian 12 Linux (work), Windows 11 (personal)</strong>
+</p>
+
+<p>
   🌎 Contact me: ⤵️
 </p>
 
