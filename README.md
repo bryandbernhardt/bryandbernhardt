@@ -39,7 +39,7 @@
 </p>
 
 <p>
-  🛰️ Tools: <strong>VSCode, Docker, Terminal, DBeaver, Postman</strong>
+  🛰️ Tools: <strong>VSCode, Docker, Terminal, DBeaver, Postman, GitBucket</strong>
 </p>
 
 <p>
@@ -63,7 +63,3 @@
     <img src="https://img.shields.io/badge/-Instagram-323330?style=flat-square&logo=instagram&logoColor=C40C7B&link=https://www.instagram.com/baiaaam/"/>
   </a>
 </p>  
-
-<!--https://github-readme-streak-stats.herokuapp.com/demo/-->
-### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanDietrichBernhardt&theme=vision-friendly-dark&locale=en-US&date_format=M%20j%5B%2C%20Y%5D&background=323330&stroke=6909FA&border=6909FA&ring=6909FA&fire=6909FA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=DDDDDD&mode=weekly)](https://github.com/bryandbernhardt)
