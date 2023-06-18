@@ -39,7 +39,7 @@
 </p>
 
 <p>
-  🛰️ Tools: <strong>VSCode, Visual Studio 2019/2022, Azure Data Studio, Robo3T, Docker, Terminal, Postman</strong>
+  🛰️ Tools: <strong>VSCode, Docker, Terminal, DBeaver, Postman</strong>
 </p>
 
 <p>
