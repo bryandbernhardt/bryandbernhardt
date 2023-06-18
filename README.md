@@ -31,15 +31,15 @@
 <br />
 
 <p>
-  🧑‍🚀 Languages: <strong>C#, JS, TS, Dart</strong>
+  🧑‍🚀 Languages: <strong>JS, TS, Dart, C#</strong>
 </p>
 
 <p>
-  🚀 Frameworks: <strong>ASP.NET Core, Node.js, React, Vue, Flutter</strong>
+  🚀 Frameworks: <strong>Vue, Node.js, React, Flutter, ASP.NET Core</strong>
 </p>
 
 <p>
-  🛰️ Tools: <strong>Visual Studio 2019/2022, VSCode, Azure Data Studio, Robo3T, Docker, Terminal, Postman</strong>
+  🛰️ Tools: <strong>VSCode, Visual Studio 2019/2022, Azure Data Studio, Robo3T, Docker, Terminal, Postman</strong>
 </p>
 
 <p>
