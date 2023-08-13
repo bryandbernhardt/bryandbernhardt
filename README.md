@@ -39,7 +39,7 @@
 </p>
 
 <p>
-  🚀 Frameworks: <strong>Vue, Quasar, Node.js, React, Flutter, ASP.NET Core</strong>
+  🚀 Frameworks: <strong>Vue, Quasar, Node.js, Flutter, ASP.NET Core</strong>
 </p>
 
 <p>
