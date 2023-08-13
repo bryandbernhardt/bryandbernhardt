@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p> 
-  I'm Bryan, developer and systems analyst, my specialty is in Front-End development and I'm focused on Full-Stack web.
+  I'm Bryan, developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack web.
 </p>
 
 <a href="https://github.com/bryandbernhardt">
@@ -20,7 +20,7 @@
     <br />
     <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=0090E1" />
     <img src="https://img.shields.io/badge/Windows%2011-323330.svg?style=for-the-badge&logo=Windows%2011&logoColor=%230079d5" />
-    <img src="https://img.shields.io/badge/Debian-323330?style=for-the-badge&logo=debian&logoColor=D70A53" />
+    <img src="https://img.shields.io/badge/Manjaro-323330?style=for-the-badge&logo=manjaro&logoColor=35BFA4" />
     <br />
     <img src="https://img.shields.io/badge/Trello-323330.svg?style=for-the-badge&logo=Trello&logoColor=%23026AA7" />
     <img src="https://img.shields.io/badge/jira-323330.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF" />
