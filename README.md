@@ -35,6 +35,10 @@
 <br />
 
 <p>
+  🎓 Learning: <strong>AI/Neural networks, Mobile</strong>
+</p>
+
+<p>
   🧑‍🚀 Languages: <strong>JS, TS, Dart, C#</strong>
 </p>
 
