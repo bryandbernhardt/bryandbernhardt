@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p> 
-  I'm Bryan, developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack web.
+  I'm Bryan, developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack.
 </p>
 
 <a href="https://github.com/bryandbernhardt">
