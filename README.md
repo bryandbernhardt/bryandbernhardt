@@ -50,5 +50,5 @@
 </p>
 
 <p>
-  💻 SO: <strong>Manjaro Linux (work), Windows 11 (personal)</strong>
+  💻 SO: <strong>macbook pro 13 (work), Windows 11 (personal)</strong>
 </p>
