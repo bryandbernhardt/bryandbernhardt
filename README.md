@@ -34,11 +34,11 @@
 <br />
 
 <p>
-  🎓 Learning: <strong>AI/Neural networks, Kotlin Native Android</strong>
+  🎓 Learning: <strong>Data Science using AI, Native Android</strong>
 </p>
 
 <p>
-  🧑‍🚀 Languages: <strong>JS, TS, Kotlin</strong>
+  🧑‍🚀 Languages: <strong>JS, TS, Python, Java, Kotlin</strong>
 </p>
 
 <p>
@@ -46,9 +46,9 @@
 </p>
 
 <p>
-  🛰️ Tools: <strong>VSCode, Docker, Terminal, DBeaver, Android Studio</strong>
+  🛰️ Tools: <strong>VSCode, Docker, Terminal, DBeaver, Android Studio, XCode</strong>
 </p>
 
 <p>
-  💻 SO: <strong>macOS Ventura (work), Windows 11 (personal)</strong>
+  💻 SO: <strong>macOS (work), Windows 11 (personal)</strong>
 </p>
