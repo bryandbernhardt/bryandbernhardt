@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/yarn-323330.svg?style=for-the-badge&logo=yarn&logoColor=%232C8EBB" />
     <br />
     <img src="https://img.shields.io/badge/android-323330?style=for-the-badge&logo=android&logoColor=%3DDA84" />
-    <img src="https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=7E53FE" />
 </a>
 
 <br />
