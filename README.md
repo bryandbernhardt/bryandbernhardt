@@ -9,6 +9,7 @@
 </p>
 
 <a href="https://github.com/bryandbernhardt">
+    <!-- https://shields.io/badges -->
     <img src="https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=3EB480" />
     <img src="https://img.shields.io/badge/Quasar-323330?style=for-the-badge&logo=quasar&logoColor=16B7FB" />
     <img src="https://img.shields.io/badge/jest-323330?style=for-the-badge&logo=jest&logoColor=%23C21325" />
@@ -19,8 +20,8 @@
     <img src="https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=hotpink" />
     <br />
     <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=0090E1" />
-    <img src="https://img.shields.io/badge/Windows%2011-323330.svg?style=for-the-badge&logo=Windows%2011&logoColor=%230079d5" />
-    <img src="https://img.shields.io/badge/Manjaro-323330?style=for-the-badge&logo=manjaro&logoColor=35BFA4" />
+    <img src="https://img.shields.io/badge/Linux-323330.svg?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mac%20OS-323330?style=for-the-badge&logo=apple&logoColor=white" />
     <br />
     <img src="https://img.shields.io/badge/GIT-323330.svg?style=for-the-badge&logo=git&logoColor=F74E27" />
     <img src="https://img.shields.io/badge/NPM-323330.svg?style=for-the-badge&logo=npm&logoColor=%23CB3837" />
