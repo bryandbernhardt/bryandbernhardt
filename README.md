@@ -19,7 +19,7 @@ I'm Bryan, developer and systems analyst, my specialty is in Front-End developme
 [![Yarn](https://img.shields.io/badge/yarn-323330.svg?style=for-the-badge&logo=yarn&logoColor=722F37)](https://github.com/bryandbernhardt)
 [![Jest](https://img.shields.io/badge/jest-323330?style=for-the-badge&logo=jest&logoColor=722F37)](https://github.com/bryandbernhardt)
 
-🎓 Learning: **Data Science using AI, Mobile Development**
+🎓 Learning: **Cross Platform Apps Development**
 
 🧑‍🚀 Languages: **JS, TS, Python, Java**
 
