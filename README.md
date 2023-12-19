@@ -10,7 +10,7 @@ I'm Bryan, developer and systems analyst, my specialty is in Front-End developme
 [![Capacitor](https://img.shields.io/badge/capacitor-323330?style=for-the-badge&logo=capacitor&logoColor=722F37)](https://github.com/bryandbernhardt)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=722F37)](https://github.com/bryandbernhardt)
 [![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=722F37)](https://github.com/bryandbernhardt)
-[![Sass](https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=722F37)](https://github.com/bryandbernhardt)
+[![Python](https://img.shields.io/badge/Python-323330.svg?style=for-the-badge&logo=Python&logoColor=722F37)](https://github.com/bryandbernhardt)
 [![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=722F37)](https://github.com/bryandbernhardt)
 [![Linux](https://img.shields.io/badge/Linux-323330.svg?style=for-the-badge&logo=linux&logoColor=722F37)](https://github.com/bryandbernhardt)
 [![MacOS](https://img.shields.io/badge/Mac%20OS-323330?style=for-the-badge&logo=apple&logoColor=722F37)](https://github.com/bryandbernhardt)
@@ -18,6 +18,7 @@ I'm Bryan, developer and systems analyst, my specialty is in Front-End developme
 [![NPM](https://img.shields.io/badge/NPM-323330.svg?style=for-the-badge&logo=npm&logoColor=722F37)](https://github.com/bryandbernhardt)
 [![Yarn](https://img.shields.io/badge/yarn-323330.svg?style=for-the-badge&logo=yarn&logoColor=722F37)](https://github.com/bryandbernhardt)
 [![Jest](https://img.shields.io/badge/jest-323330?style=for-the-badge&logo=jest&logoColor=722F37)](https://github.com/bryandbernhardt)
+[![Sass](https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=722F37)](https://github.com/bryandbernhardt)
 
 🎓 Learning: **Cross Platform Apps Development**
 
