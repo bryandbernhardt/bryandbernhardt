@@ -4,6 +4,9 @@
 
 I'm Bryan, developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack.
 
+Systems Development & Analysis College in progress 8/10
+Electronics Technician since 2018
+
 [![Vue](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Quasar](https://img.shields.io/badge/Quasar-323330?style=for-the-badge&logo=quasar&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Nuxt](https://img.shields.io/badge/Nuxt-323330?style=for-the-badge&logo=nuxtdotjs&logoColor=008dc5)](https://github.com/bryandbernhardt)
