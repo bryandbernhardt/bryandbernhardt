@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 I'm Bryan, developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack.
-
-Systems Development & Analysis College in progress 8/10
-Electronics Technician since 2018
+</br>
+Systems Development & Analysis College in progress 8/10</br>
+Electronics Technician since 2018</br>
 
 [![Vue](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Quasar](https://img.shields.io/badge/Quasar-323330?style=for-the-badge&logo=quasar&logoColor=008dc5)](https://github.com/bryandbernhardt)
