@@ -2,7 +2,7 @@
     
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-I'm Bryan, developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack.</br>
+Hello👋 My name is Bryan Dietrich Bernhardt, I'm full stack developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack using Vue 3 and NodeJS.</br>
 </br>
 Systems Development & Analysis College in progress 8/10</br>
 Electronics Technician since 2018</br>
@@ -23,12 +23,12 @@ Electronics Technician since 2018</br>
 [![Jest](https://img.shields.io/badge/jest-323330?style=for-the-badge&logo=jest&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Sass](https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=008dc5)](https://github.com/bryandbernhardt)
 
-🎓 Learning: **Cross Platform Apps Development**
+🎓 Learning: **Vue Mastery's Vue3/Nuxt3 Courses about builds, rendering, UI, testing, AI, fullstack with Nuxt 3 and other advanced topics**
 
-🧑‍🚀 Languages: **JS, TS, Python, Java**
+🧑‍🚀 Languages: **JS, TS, Python, C, C#, PHP, Java**
 
-🚀 Frameworks: **Vue, Quasar, Nuxt, Node.js**
+🚀 Frameworks: **Vue, Nuxt, Node.js, .NET Core**
 
-🛰️ Tools: **VSCode, Docker, Terminal, DBeaver, Android Studio, XCode**
+🛰️ Tools: **VSCode, WebStorm, Docker, Terminal, DBeaver, Android Studio, XCode**
 
-💻 SO: **macOS (work), Windows 11 (personal)**
+💻 SO: **MacOS (work), Windows 11 (personal), Linux Distros in servers and VMs**
