@@ -25,10 +25,10 @@ Electronics Technician since 2018</br>
 
 🎓 Learning: **Vue Mastery's Vue3/Nuxt3 Courses about builds, rendering, UI, testing, AI, fullstack with Nuxt 3 and other advanced topics**
 
-🧑‍🚀 Languages: **JS, TS, Python, C, C#, PHP, Java**
+🧑‍🚀 Languages: **JS, TS, C, C#, Java, Kotlin**
 
 🚀 Frameworks: **Vue, Nuxt, Node.js, .NET Core**
 
-🛰️ Tools: **VSCode, WebStorm, Docker, Terminal, DBeaver, Android Studio, XCode**
+🛰️ Tools: **VSCode, WebStorm, Docker, Terminal, DBeaver, IntelliJ IDE, Android Studio, XCode**
 
-💻 SO: **MacOS (work), Windows 11 (personal), Linux Distros in servers and VMs**
+💻 SO: **MacOS (work), Windows 11 (personal), Linux Distros (servers/VMs)**
