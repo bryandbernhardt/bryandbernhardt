@@ -25,7 +25,7 @@ Electronics Technician since 2018</br>
 [![Sass](https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Kotlin](https://img.shields.io/badge/kotlin-323330.svg?style=for-the-badge&logo=kotlin&logoColor=008dc5)](https://github.com/bryandbernhardt)
 
-🎓 Learning: **Vue Mastery's Vue3/Nuxt3 Courses about builds, rendering, UI, testing, AI, fullstack with Nuxt 3 and other advanced topics**
+🎓 Learning: **Advanced Android Native using Kotlin and Jetpack Compose**
 
 🧑‍🚀 Languages: **JS, TS, C, C#, Java, Kotlin**
 
