@@ -11,6 +11,7 @@ Electronics Technician since 2018</br>
 [![Quasar](https://img.shields.io/badge/Quasar-323330?style=for-the-badge&logo=quasar&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Nuxt](https://img.shields.io/badge/Nuxt-323330?style=for-the-badge&logo=nuxtdotjs&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Capacitor](https://img.shields.io/badge/capacitor-323330?style=for-the-badge&logo=capacitor&logoColor=008dc5)](https://github.com/bryandbernhardt)
+[![Android](https://img.shields.io/badge/android-323330.svg?style=for-the-badge&logo=android&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Python](https://img.shields.io/badge/Python-323330.svg?style=for-the-badge&logo=Python&logoColor=008dc5)](https://github.com/bryandbernhardt)
@@ -22,6 +23,7 @@ Electronics Technician since 2018</br>
 [![Yarn](https://img.shields.io/badge/yarn-323330.svg?style=for-the-badge&logo=yarn&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Jest](https://img.shields.io/badge/jest-323330?style=for-the-badge&logo=jest&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Sass](https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=008dc5)](https://github.com/bryandbernhardt)
+[![Kotlin](https://img.shields.io/badge/kotlin-323330.svg?style=for-the-badge&logo=kotlin&logoColor=008dc5)](https://github.com/bryandbernhardt)
 
 🎓 Learning: **Vue Mastery's Vue3/Nuxt3 Courses about builds, rendering, UI, testing, AI, fullstack with Nuxt 3 and other advanced topics**
 
