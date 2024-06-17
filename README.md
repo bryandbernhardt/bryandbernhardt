@@ -5,8 +5,8 @@
 Hello👋 My name is Bryan Dietrich Bernhardt, I'm full stack developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack using Vue 3 and NodeJS.</br>
 </br>
 Systems Development & Analysis College in progress 8/10</br>
-Electronics Technician since 2018</br>
 Working as a Developer since 2022</br>
+Electronics Technician since 2018</br>
 </br>
 [![Vue](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Quasar](https://img.shields.io/badge/Quasar-323330?style=for-the-badge&logo=quasar&logoColor=008dc5)](https://github.com/bryandbernhardt)
