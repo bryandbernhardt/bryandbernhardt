@@ -34,4 +34,4 @@ Electronics Technician since 2018</br>
 
 🛰️ Tools: **VSCode, WebStorm, Docker, Terminal, DBeaver, IntelliJ IDE, Android Studio, XCode**
 
-💻 SO: **MacOS (work), Linux ZorinOS (personal), Other Linux Distros (servers/VMs)**
+💻 SO: **MacOS (work), Linux ZorinOS (personal), Other SOs like Kali, Ubuntu Server, Mint and Windows 10 (servers/VMs)**
