@@ -26,7 +26,7 @@ Electronics Technician since 2018</br>
 [![Sass](https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Kotlin](https://img.shields.io/badge/kotlin-323330.svg?style=for-the-badge&logo=kotlin&logoColor=008dc5)](https://github.com/bryandbernhardt)
 
-🎓 Learning: **Advanced Android Native using Kotlin and Jetpack Compose**
+🎓 Learning: **Cyber security**
 
 🧑‍🚀 Languages: **JS, TS, C, C#, Java, Kotlin**
 
@@ -34,4 +34,4 @@ Electronics Technician since 2018</br>
 
 🛰️ Tools: **VSCode, WebStorm, Docker, Terminal, DBeaver, IntelliJ IDE, Android Studio, XCode**
 
-💻 SO: **MacOS (work), Windows 11 (personal), Linux Distros (servers/VMs)**
+💻 SO: **MacOS (work), Linux ZorinOS (personal), Other Linux Distros (servers/VMs)**
