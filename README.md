@@ -32,6 +32,6 @@ Electronics Technician since 2018</br>
 
 🚀 Frameworks: **Vue, Nuxt, Capacitor, Node.js, ASP.NET Core**
 
-🛰️ Tools: **VSCode, Android Studio, XCode, DBeaver, Docker, Docker Compose, Terminal**
+🛰️ Tools: **VSCode, Android Studio, XCode, DBeaver, Docker, Docker Compose, CloudFire, Azure, Terminal**
 
 💻 SO: **MacOS (work desktop), OpenSUSE Linux (personal desktop), Debian Server (self-hosted server), Other SOs like Kali and Windows (VMs)**
