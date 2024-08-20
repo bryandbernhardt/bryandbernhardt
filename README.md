@@ -30,7 +30,7 @@ Electronics Technician since 2018</br>
 
 🧑‍🚀 Languages: **JS, TS, C, C#, Java**
 
-🚀 Frameworks: **Vue, Nuxt, Capacitor, Node.js, .NET Core**
+🚀 Frameworks: **Vue, Nuxt, Capacitor, Node.js, ASP.NET Core**
 
 🛰️ Tools: **VSCode, Android Studio, XCode, DBeaver, Docker, Docker Compose, Terminal**
 
