@@ -26,12 +26,12 @@ Electronics Technician since 2018</br>
 [![Sass](https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Kotlin](https://img.shields.io/badge/kotlin-323330.svg?style=for-the-badge&logo=kotlin&logoColor=008dc5)](https://github.com/bryandbernhardt)
 
-🎓 Learning: **Cyber security**
+🎓 Learning: **DevOps**
 
-🧑‍🚀 Languages: **JS, TS, C, C#, Java, Kotlin**
+🧑‍🚀 Languages: **JS, TS, C, C#, Java**
 
-🚀 Frameworks: **Vue, Nuxt, Node.js, Android Native**
+🚀 Frameworks: **Vue, Nuxt, Capacitor, Node.js**
 
-🛰️ Tools: **VSCode, WebStorm, Docker, Terminal, DBeaver, IntelliJ IDE, Android Studio, XCode**
+🛰️ Tools: **VSCode, Android Studio, XCode, DBeaver, Docker, Docker Compose, Terminal**
 
-💻 SO: **MacOS (work), OpenSUSE Linux (personal), Other SOs like Kali, Ubuntu Server and Windows (servers/VMs)**
+💻 SO: **MacOS (work), OpenSUSE Linux (personal), Other SOs like Kali, Debian Server and Windows (servers/VMs)**
