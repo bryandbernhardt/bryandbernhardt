@@ -34,4 +34,4 @@ Electronics Technician since 2018</br>
 
 🛰️ Tools: **VSCode, Android Studio, XCode, DBeaver, Docker, Docker Compose, Terminal**
 
-💻 SO: **MacOS (work), OpenSUSE Linux (personal), Other SOs like Kali, Debian Server and Windows (servers/VMs)**
+💻 SO: **MacOS (work desktop), OpenSUSE Linux (personal desktop), Debian Server (self-hosted server), Other SOs like Kali and Windows (VMs)**
