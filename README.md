@@ -4,7 +4,7 @@
 
 Hello👋 My name is Bryan Dietrich Bernhardt, I'm full stack developer and systems analyst, my specialty is in Front-End development and I'm working on Full-Stack using Vue 3, Capacitor and NodeJS.</br>
 </br>
-Degree in Systems Development & Analysis</br>
+Undergraduate in Systems Development & Analysis</br>
 Working as a Developer since 2022</br>
 Electronics Technician since 2018</br>
 </br>
