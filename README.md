@@ -2,7 +2,7 @@
     
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-Hello👋 My name is Bryan Dietrich Bernhardt, I'm full stack developer and systems analyst, my specialty is in Full-Stack development and I'm working using Vue 3, Capacitor and NodeJS.</br>
+Hello👋 My name is Bryan Dietrich Bernhardt, I'm full stack developer and systems analyst, I'm working using Vue 3, Capacitor and NodeJS.</br>
 </br>
 Undergraduate in Systems Development & Analysis</br>
 Working as a Developer since 2022</br>
