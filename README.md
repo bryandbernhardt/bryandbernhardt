@@ -24,7 +24,7 @@ Electronics Technician and programmer since 2018</br>
 [![Jest](https://img.shields.io/badge/jest-323330?style=for-the-badge&logo=jest&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Sass](https://img.shields.io/badge/SASS-323330.svg?style=for-the-badge&logo=SASS&logoColor=008dc5)](https://github.com/bryandbernhardt)
 
-🧑‍🚀 Languages: **JS, TS, C, C#, Java**
+🧑‍🚀 Languages: **JS, TS, C, C#, Python**
 
 🚀 Frameworks: **Vue, Nuxt, Capacitor, Node.js, ASP.NET Core**
 
