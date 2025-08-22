@@ -6,7 +6,7 @@ Hello👋 My name is Bryan Dietrich Bernhardt, I'm full stack developer and syst
 </br>
 Undergraduate in Systems Development & Analysis since 2024</br>
 Working as a Developer since 2022</br>
-Electronics Technician since 2018</br>
+Electronics Technician and programmer since 2018</br>
 </br>
 [![.NET](https://img.shields.io/badge/.NET-323330?style=for-the-badge&logo=.net&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Vue](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=008dc5)](https://github.com/bryandbernhardt)
