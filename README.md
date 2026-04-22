@@ -15,3 +15,5 @@ Electronics Technician and programmer since 2018</br>
 [![Nest](https://img.shields.io/badge/Nest-323330.svg?style=for-the-badge&logo=nestjs&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Linux](https://img.shields.io/badge/Linux-323330.svg?style=for-the-badge&logo=linux&logoColor=008dc5)](https://github.com/bryandbernhardt)
+[![Linux](https://img.shields.io/badge/Angular-323330.svg?style=for-the-badge&logo=angular&logoColor=008dc5)](https://github.com/bryandbernhardt)
+[![Linux](https://img.shields.io/badge/React-323330.svg?style=for-the-badge&logo=react&logoColor=008dc5)](https://github.com/bryandbernhardt)
