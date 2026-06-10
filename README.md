@@ -8,6 +8,12 @@ Undergraduate in Systems Development & Analysis since 2024</br>
 Working as a Developer since 2022</br>
 Electronics Technician and programmer since 2018</br>
 </br>
+
+<p align="center">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandbernhardt&layout=donut&theme=transparent&hide=java&hide_border=true">
+</p>
+
+</br>
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,firebase,azure,graphql,git,github,bitbucket,mongodb,mysql,postgres,cloudflare,docker,linux&theme=dark)](https://github.com/bryandbernhardt)</br>
 [![Front](https://skillicons.dev/icons?i=angular,vue,nuxtjs,webpack,vite,vitest,jest,cypress,pinia,npm,pnpm&theme=dark)](https://github.com/bryandbernhardt)</br>
 [![Languages](https://skillicons.dev/icons?i=cs,js,ts,html,css,sass&theme=dark)](https://github.com/bryandbernhardt)</br>
