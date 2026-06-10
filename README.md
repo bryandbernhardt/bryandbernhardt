@@ -2,7 +2,7 @@
     
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-Hello👋 My name is Bryan Dietrich Bernhardt, I'm full stack developer, I'm working using Vue 3, NodeJS and .NET.</br>
+Hello👋 My name is Bryan Dietrich Bernhardt, I'm full stack developer, I'm working using .NET and Angular/Vue.</br>
 </br>
 Undergraduate in Systems Development & Analysis since 2024</br>
 Working as a Developer since 2022</br>
@@ -14,3 +14,4 @@ Electronics Technician and programmer since 2018</br>
 [![Node](https://img.shields.io/badge/Node-323330.svg?style=for-the-badge&logo=node.js&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=008dc5)](https://github.com/bryandbernhardt)
 [![Linux](https://img.shields.io/badge/Linux-323330.svg?style=for-the-badge&logo=linux&logoColor=008dc5)](https://github.com/bryandbernhardt)
+[![Fedora](https://img.shields.io/badge/Fedora-323330.svg?style=for-the-badge&logo=fedora&logoColor=008dc5)](https://github.com/bryandbernhardt)
