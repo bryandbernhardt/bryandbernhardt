@@ -1,4 +1,4 @@
-[![Overview](https://img.shields.io/static/v1?label=Overview&message=bryandbernhardt&color=008dc5&style=for-the-badge&logo=GitHub&labelColor=323330)](https://github.com/bryandbernhardt)
+[![Overview](https://img.shields.io/static/v1?label=Overview&message=bryandbernhardt&color=6a0cfa&style=for-the-badge&logo=GitHub&labelColor=323330)](https://github.com/bryandbernhardt)
 
 <a href="https://github.com/bryandbernhardt"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"></a>
 
@@ -9,7 +9,7 @@ Working as a Developer since 2022</br>
 Electronics Technician and programmer since 2018</br>
 </br>
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryandbernhardt&layout=donut&theme=transparent&hide=java&hide_border=true)](https://github.com/bryandbernhardt)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryandbernhardt&layout=donut&theme=transparent&hide=java&hide_border=true&title_color=6a0cfa)](https://github.com/bryandbernhardt)
 
 </br>
 
