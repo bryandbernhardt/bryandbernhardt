@@ -1,5 +1,5 @@
 [![Overview](https://img.shields.io/static/v1?label=Overview&message=bryandbernhardt&color=008dc5&style=for-the-badge&logo=GitHub&labelColor=323330)](https://github.com/bryandbernhardt)
-    
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 Hello 👋 My name is Bryan Dietrich Bernhardt. I'm a full stack developer working with .NET and Angular/Vue.</br>
@@ -9,9 +9,7 @@ Working as a Developer since 2022</br>
 Electronics Technician and programmer since 2018</br>
 </br>
 
-<p align="center">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandbernhardt&layout=donut&theme=transparent&hide=java&hide_border=true">
-</p>
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryandbernhardt&layout=donut&theme=transparent&hide=java&hide_border=true)](https://github.com/bryandbernhardt)
 
 </br>
 
