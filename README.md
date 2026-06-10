@@ -1,6 +1,6 @@
 [![Overview](https://img.shields.io/static/v1?label=Overview&message=bryandbernhardt&color=008dc5&style=for-the-badge&logo=GitHub&labelColor=323330)](https://github.com/bryandbernhardt)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<a href="https://github.com/bryandbernhardt"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"></a>
 
 Hello 👋 My name is Bryan Dietrich Bernhardt. I'm a full stack developer working with .NET and Angular/Vue.</br>
 </br>
