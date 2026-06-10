@@ -8,10 +8,5 @@ Undergraduate in Systems Development & Analysis since 2024</br>
 Working as a Developer since 2022</br>
 Electronics Technician and programmer since 2018</br>
 </br>
-[![.NET](https://img.shields.io/badge/.NET-323330.svg?style=for-the-badge&logo=DOTNET&logoColor=008dc5)](https://github.com/bryandbernhardt)
-[![Angular](https://img.shields.io/badge/Angular-323330.svg?style=for-the-badge&logo=angular&logoColor=008dc5)](https://github.com/bryandbernhardt)
-[![Vue](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=008dc5)](https://github.com/bryandbernhardt)
-[![Node](https://img.shields.io/badge/Node-323330.svg?style=for-the-badge&logo=node.js&logoColor=008dc5)](https://github.com/bryandbernhardt)
-[![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=008dc5)](https://github.com/bryandbernhardt)
-[![Linux](https://img.shields.io/badge/Linux-323330.svg?style=for-the-badge&logo=linux&logoColor=008dc5)](https://github.com/bryandbernhardt)
-[![Fedora](https://img.shields.io/badge/Fedora-323330.svg?style=for-the-badge&logo=fedora&logoColor=008dc5)](https://github.com/bryandbernhardt)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,firebase,azure,graphql,git,github,bitbucket,mongodb,mysql,postgres,docker,linux&theme=dark)](https://github.com/bryandbernhardt)</br>
+[![Languages](https://skillicons.dev/icons?i=cs,js,ts,html,css,sass&theme=dark)](https://github.com/bryandbernhardt)</br>
