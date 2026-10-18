@@ -5,7 +5,7 @@
 Hello 👋 My name is Bryan Dietrich Bernhardt. I'm a full stack developer working with .NET and Angular/Vue.\
 Undergraduate in Systems Development & Analysis since 2024\
 Working as a Developer since 2022\
-Electronics Technician and programmer since 2018\
+Electronics Technician and programmer since 2018
 
 [![TopLangs](https://github-stats-extended.vercel.app/api/top-langs/?username=bryandbernhardt&layout=donut&theme=transparent&hide=java,html,css&langs_count=3&hide_border=true&title_color=6a0cfa)](https://github.com/bryandbernhardt)
 
