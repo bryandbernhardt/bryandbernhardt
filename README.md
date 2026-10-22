@@ -9,4 +9,4 @@ Electronics Technician and programmer since 2018
 
 [![TopLangs](https://github-stats-extended.vercel.app/api/top-langs/?username=bryandbernhardt&layout=donut&theme=transparent&hide=java,html,css&langs_count=3&hide_border=true&title_color=6a0cfa)](https://github.com/bryandbernhardt)
 
-<a href="https://github.com/bryandbernhardt"><img src="https://skillicons.dev/icons?i=dotnet,angular,azure,docker,rabbitmq,firebase" alt="My Skills" hspace="4"></a><img src="claude.svg" width="48" height="48" alt="Claude Code" hspace="4">
+<a href="https://github.com/bryandbernhardt"><img src="https://skillicons.dev/icons?i=dotnet,angular,azure,docker,rabbitmq,firebase" alt="My Skills" hspace="4"></a> <img src="claude.svg" width="48" height="48" alt="Claude Code" hspace="4">
